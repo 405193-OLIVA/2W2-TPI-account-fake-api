@@ -1,0 +1,25 @@
+{
+    "accounting_concept": [
+        {
+            "plot_id": 1,
+            "accounting_date": "2024-09-23 12:34:56",
+            "concept": "PAYMENT",
+            "comments": "free_text",
+            "amount": 30000
+        },
+        {
+            "plot_id": 1,
+            "accounting_date": "2024-09-23 12:34:56",
+            "concept": "COMMON_EXPENSE",
+            "comments": "free_text",
+            "amount": 50000
+       },
+       {
+            "plot_id": 1,
+            "accounting_date": "2024-09-23 12:34:56",
+            "concept": "EXTRAORDINARY_EXPENSE",
+            "comments": "free_text",
+            "amount": 80000
+        }
+    ]
+}
